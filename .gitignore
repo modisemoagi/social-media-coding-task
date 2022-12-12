@@ -105,3 +105,6 @@ venv.bak/
 
 # jetbrains
 .idea/
+
+# Logs
+social_network_activity.log
